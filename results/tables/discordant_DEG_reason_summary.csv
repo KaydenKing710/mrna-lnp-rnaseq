@@ -1,0 +1,4 @@
+reason,gene_count
+Fails significance threshold,21
+Fails fold-change threshold,20
+Fails both significance and FC thresholds,1

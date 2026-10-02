@@ -1,0 +1,29 @@
+# Python virtual environments
+.venv/
+.venv_test/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Raw GEO data
+data/raw/*
+!data/raw/.gitkeep
+
+# Temporary files
+*.tmp
+*.log
