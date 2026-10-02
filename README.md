@@ -8,8 +8,8 @@ The dataset contains bulk RNA-seq data from mouse liver samples after systemic a
 
 My main goal was not only to identify differentially expressed genes, but also to compare two commonly used differential expression workflows:
 
-- PyDESeq2
-- edgeR
+-PyDESeq2
+-edgeR
 
 I wanted to see whether both methods would give similar biological conclusions when they were applied to the same count matrix and experimental design.
 
